@@ -6,6 +6,10 @@ To develop Spout and Bolt application in Storm distributed real-time computation
 
 To get started with installing and configuring Kafka and Storm on local system and create a simple topic in Kafka and write Java program for Spout and Bolt.
 
+## Architecture
+
+![alt text](Storm.png)
+
 ## Installation
 
 Use Software Project Management and Comprehension Tool Maven [mvn](https://maven.apache.org/) to build the project.
